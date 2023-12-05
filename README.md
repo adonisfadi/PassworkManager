@@ -1,4 +1,4 @@
 #Password Manger Website 
 
 Store Your Passowrds 
-Generate Strong Passwords
+Generate Strong Passwords.
